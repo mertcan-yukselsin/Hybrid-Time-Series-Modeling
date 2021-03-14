@@ -6,5 +6,5 @@ This repository introduces a new univariate time series modeling approach for th
 
 In Hybrid-Modeling.html file, tutorial codes are given accordingly. In that file, Unemployment Rate Data is used.
 
-In hybrid-approach.pdf file, a paper is written so that the method is examined in detail.
+In hybrid-approach.pdf file, a paper is written so that the method is shared more in detail.
 

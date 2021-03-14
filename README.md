@@ -9,13 +9,7 @@ In hybrid-approach.pdf file, a paper is written so that the method is examined i
 
 
 ---
-title: "Hybrid Models Tutorial"
-author: "Mertcan Yükselsin"
-date: "`r Sys.Date()`"
-output:
-  rmdformats::robobook:
-    highlight: kate
----
+
 
 # Necessary Libraries
 
